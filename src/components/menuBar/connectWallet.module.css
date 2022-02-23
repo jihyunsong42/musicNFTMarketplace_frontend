@@ -1,0 +1,42 @@
+.connectWallet{
+    /* position: relative; */
+    /* left: 50px; */
+    /* background-color: red; */
+    width: auto;
+    /* height: 30px;
+    line-height: 30px; */
+    left: 23%;
+    position: relative;
+    font: Righteous;
+    /* font-family: 'Roboto', sans-serif; */
+}
+
+
+#connectWallet{
+    border-radius: 25px;
+    box-shadow: 0px 3px 6px #07030329;
+    background: #D504D9;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 115px;
+    height: 30px;
+    position: relative;
+    top: 68px;
+    left: 10px;
+    cursor: pointer;
+    transition: background 1s ease-in-out;
+}
+
+#connectWallet:hover {
+    background: #fd8aff;
+}
+
+
+#connectWallet > span {
+    position: relative;
+    bottom: 67px;
+    height: 0px;
+    color: #FFFFFF;
+    display: block;
+    text-align: center;
+}

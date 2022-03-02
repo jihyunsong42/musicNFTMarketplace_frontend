@@ -5,7 +5,7 @@ link : https://musicnft.azurewebsites.net<br>
 
 ![musicNFT](https://user-images.githubusercontent.com/43053791/156318632-ddc3b1c3-956d-4d44-90a0-6d48d0873ae5.PNG)
 
-# This DApp(Decentralised Application) is Music NFT Marketplace, where customers can mint their music NFTs by uploading their soundtrack information.<br>Uploaded soundtrack will be minted to NFT(ERC-1155 Standard). Creators can determine how many NFTs they like to mint.<br>Once NFTs are minted, The creator can also upload their music NFTs on tradeblock.<br>This project was conducted during Ethereum Hackathon and I took part of front-end and back-end logic.<br>I also contributed to Smart Contract logic of this dApp. 
+This DApp(Decentralised Application) is Music NFT Marketplace, where customers can mint their music NFTs by uploading their soundtrack information.<br>Uploaded soundtrack will be minted to NFT(ERC-1155 Standard). Creators can determine how many NFTs they like to mint.<br>Once NFTs are minted, The creator can also upload their music NFTs on tradeblock.<br>This project was conducted during Ethereum Hackathon and I took part of front-end and back-end logic.<br>I also contributed to Smart Contract logic of this dApp. 
 
 ![mintNFT](https://user-images.githubusercontent.com/43053791/156320508-29dabcd1-42ea-494e-a1c4-c6de25649fbc.PNG)
 

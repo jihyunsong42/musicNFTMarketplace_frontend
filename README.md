@@ -9,15 +9,15 @@ This DApp(Decentralised Application) is Music NFT Marketplace, where customers c
 
 ![mintNFT](https://user-images.githubusercontent.com/43053791/156320508-29dabcd1-42ea-494e-a1c4-c6de25649fbc.PNG)
 
-##### fig 1) NFT Minting Page
+#### fig 1) NFT Minting Page
 
 ![musicNFT_myMusic](https://user-images.githubusercontent.com/43053791/156320633-532c5431-18ee-4aee-ac3b-8bf2a874f680.PNG)
 
-##### fig 2) MY NFT Music Page
+#### fig 2) MY NFT Music Page
 
 ![buyNFTs](https://user-images.githubusercontent.com/43053791/156320143-fd61ba45-8aa9-4990-a9ed-0d13ca419bed.PNG)
 
-##### fig 3) NFT Purchasing Page
+#### fig 3) NFT Purchasing Page
 
 #1 React.js is used to create the front-end app.<br>
 #2 Django and Django Rest Framework is used to implement back-end server.<br>

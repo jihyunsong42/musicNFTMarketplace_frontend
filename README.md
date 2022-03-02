@@ -1,7 +1,7 @@
 # Music NFT Marketplace Project
 
 link : https://musicnft.azurewebsites.net<br>
-(Client - Server communication is not stable. I am working on this at the moment.)
+(Currently client/server communication is not stable. I am working on this at the moment.)
 
 ![musicNFT](https://user-images.githubusercontent.com/43053791/156318632-ddc3b1c3-956d-4d44-90a0-6d48d0873ae5.PNG)
 

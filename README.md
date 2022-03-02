@@ -23,4 +23,5 @@ This DApp(Decentralised Application) is Music NFT Marketplace, where customers c
 #4 The main page shows KOSPI stock chart, and if you select other market tabs, the chart changes.<br>
 #5 You can scale in/out stock charts by clicking time units.
 
-※ Currently client/server communication is not stable so minting NFT is not working. I am working on this at the moment.)
+※ Currently client/server communication is not stable so minting NFT is not working. I am working on this at the moment.<br>
+You can also check back-end and smart contract code at https://github.com/jihyunsong42/musicNFTMarketplace_backend and https://github.com/jihyunsong42/musicNFTMarketplace_contracts

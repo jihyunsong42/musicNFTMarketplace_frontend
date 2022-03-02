@@ -18,8 +18,7 @@ This DApp(Decentralised Application) is Music NFT Marketplace, where customers c
 
 #### fig. 3) NFT Purchasing Page<br><br>
 
-#1 React.js is used to create the front-end app.<br>
-#2 Django and Django Rest Framework is used to implement back-end server.<br>
+#1 React.js is used to create the front-end app, and Node.js / Express.js for back-end.<br>
 #3 For UI, Bootstrap 4 and Font Awesome 4 were used. HighCharts, Pandas were also used to display charts.<br>
 #4 The main page shows KOSPI stock chart, and if you select other market tabs, the chart changes.<br>
 #5 You can scale in/out stock charts by clicking time units.

@@ -21,7 +21,7 @@ React.js is used to implement the front-end, and Node.js / Express.js for back-e
 #### prerequisites
 Metamask MUST be installed on your browser. You also need to set up your network to Polygon testnet.
 
-#### How to mint your NFT in my app
+#### How to mint your NFT
 #1 from the main page, click "Mint NFT" tab to mint your own NFT.<br>
 
 ![mintNFT](https://user-images.githubusercontent.com/43053791/156320508-29dabcd1-42ea-494e-a1c4-c6de25649fbc.PNG)

@@ -31,10 +31,10 @@ Metamask extention MUST be installed on your web browser. You also need to set u
 #10 After the transaction is made, finally you can check your NFT in "My ♬" tab! 🎉<br><br>
 
 ### How to sell NFT
-
+#### fig. 1) My ♬ Page<br>
 ![musicNFT_myMusic](https://user-images.githubusercontent.com/43053791/156320633-532c5431-18ee-4aee-ac3b-8bf2a874f680.PNG)
 
-#1 From the main page(fig. 1), click "My ♬" tab to see your NFT list.<br><br>
+#1 Click "My ♬" tab to see your NFT list.<br><br>
 #2 Choose a NFT you like to sell from right list and click "Sell" button.<br><br>
 #3 Click "Approve" button to approve your NFT to the smart contract. This allows smart contract to access your NFT. This process only will happen once so you don't need to do it again next time.<br><br>
 #4 Set the price and amount you want to sell, and click "Add on Tradeblock".<br><br>

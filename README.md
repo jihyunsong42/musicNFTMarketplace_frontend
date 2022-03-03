@@ -8,7 +8,7 @@ This DApp(Decentralised Application) is a Music NFT(Non-Fungible Token) Marketpl
 
 
 ## Basic Usage
-# How to mint your NFT
+### How to mint your NFT
 ![musicNFT](https://user-images.githubusercontent.com/43053791/156318632-ddc3b1c3-956d-4d44-90a0-6d48d0873ae5.PNG)
 #### fig. 1) NFT Marketplace Page<br>
 #1 <br>from the main page(fig. 1), click "Mint NFT" tab to mint your own NFT.<br>
@@ -26,6 +26,8 @@ This DApp(Decentralised Application) is a Music NFT(Non-Fungible Token) Marketpl
 #9 Client app calls smart contract function which mints NFT by passing CID and amount.<br><br>
 #10 After the transaction is made, finally you can check your NFT in your Metamask wallet!<br><br>
 
+### How to sell and buy NFT
+
 ![musicNFT_myMusic](https://user-images.githubusercontent.com/43053791/156320633-532c5431-18ee-4aee-ac3b-8bf2a874f680.PNG)
 #### fig. 2) My NFT Music Page<br><br>
 
@@ -40,7 +42,7 @@ Metamask MUST be installed on your browser. You also need to set up your network
 
 
 
-※ Currently client/server communication is not stable so minting NFT is not working. I am working on this at the moment.<br>
-You can also check back-end and smart contract code at : <br>
+※ Currently client/server communication is not stable so minting NFT is not working. I am working on fixing this at the moment.<br>
+You can also check back-end and smart contract code here.<br>
 https://github.com/jihyunsong42/musicNFTMarketplace_backend<br>
 https://github.com/jihyunsong42/musicNFTMarketplace_contracts

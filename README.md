@@ -19,7 +19,7 @@ Metamask extention MUST be installed on your web browser. You also need to set u
 
 ![mintNFT](https://user-images.githubusercontent.com/43053791/156320508-29dabcd1-42ea-494e-a1c4-c6de25649fbc.PNG)
 
-#### fig. 1) NFT Minting Page<br>
+#### fig. 2) NFT Minting Page<br>
 #2 After this page(fig. 2) shows up, fill out your song information(soundtrack, cover, title etc.) and click "Mint NFT" button.<br><br>
 #3 The client will send three requests to the backend server. The first and second request are sending soundtrack source file and album cover image file to the back-end server. The last request will be executed after two requests are finished.<br><br>
 #4 When back-end server receives requests, We need to upload these files to IPFS in order to mint NFT. There are two ways to upload data. The first way is running your own IPFS node and the second one is using pinning service. To avoid complicated implementation, We used pinning service Pinata API for this time. With Pinata API key, we can upload soundtrack and image file from back-end server to IPFS.<br><br>
@@ -31,9 +31,9 @@ Metamask extention MUST be installed on your web browser. You also need to set u
 #10 After the transaction is made, finally you can check your NFT in "My ♬" tab! 🎉<br><br>
 
 ### How to sell NFT
-#### fig. 1) My ♬ Page<br>
 ![musicNFT_myMusic](https://user-images.githubusercontent.com/43053791/156320633-532c5431-18ee-4aee-ac3b-8bf2a874f680.PNG)
 
+#### fig. 3) My ♬ Page<br>
 #1 Click "My ♬" tab to see your NFT list.<br><br>
 #2 Choose a NFT you like to sell from right list and click "Sell" button.<br><br>
 #3 Click "Approve" button to approve your NFT to the smart contract. This allows smart contract to access your NFT. This process only will happen once so you don't need to do it again next time.<br><br>

@@ -9,7 +9,7 @@ This DApp(Decentralised Application) is a Music NFT(Non-Fungible Token) Marketpl
 
 
 ## Prerequisites
-Metamask MUST be installed on your browser. You also need to set up your network to Polygon testnet and prepare some test MATIC for your transaction gas fee.
+Metamask extention MUST be installed on your web browser. You also need to set up your network to Polygon testnet and prepare some test MATIC for your transaction gas fee.
 
 ## Basic Usage
 ### How to mint your NFT

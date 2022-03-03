@@ -7,6 +7,10 @@ link : https://musicnft.azurewebsites.net<br>
 This DApp(Decentralised Application) is a Music NFT(Non-Fungible Token) Marketplace where customers can mint, buy and sell their music NFTs.<br>In this DApp, user can upload their soundtrack on IPFS(Inter-Planetery File System). Once the soundtrack information is uploaded, it will return a CID(hash value) which every NFT should contain. In this project, I followed Multi-Token Standard(ERC-1155) for creating NFT Tokens so creators can determine how many NFTs they want to mint.<br>Once NFTs are minted, The creator can also upload their music NFTs on tradeblock. Anyone in blockchain network(This app is running on polygon testnet.) can trade this dApp's user's NFTs via smart contract.
 
 
+
+## Prerequisites
+Metamask MUST be installed on your browser. You also need to set up your network to Polygon testnet and prepare some test Matic for your transaction gas fee.
+
 ## Basic Usage
 ### How to mint your NFT
 ![musicNFT](https://user-images.githubusercontent.com/43053791/156318632-ddc3b1c3-956d-4d44-90a0-6d48d0873ae5.PNG)
@@ -36,9 +40,6 @@ This DApp(Decentralised Application) is a Music NFT(Non-Fungible Token) Marketpl
 #### fig. 3) NFT Purchasing Page<br><br>
 
 React.js is used to implement the front-end, and Node.js / Express.js for back-end.<br>
-
-#### prerequisites
-Metamask MUST be installed on your browser. You also need to set up your network to Polygon testnet.
 
 
 

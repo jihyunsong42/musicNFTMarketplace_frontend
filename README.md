@@ -12,11 +12,11 @@ This DApp(Decentralised Application) is a Music NFT(Non-Fungible Token) Marketpl
 #### How to mint your NFT
 ![musicNFT](https://user-images.githubusercontent.com/43053791/156318632-ddc3b1c3-956d-4d44-90a0-6d48d0873ae5.PNG)
 #### fig. 1) NFT Marketplace Page<br>
-#1 from the main page, click "Mint NFT" tab to mint your own NFT.<br>
+#1 from the main page(fig. 1), click "Mint NFT" tab to mint your own NFT.<br>
 
 ![mintNFT](https://user-images.githubusercontent.com/43053791/156320508-29dabcd1-42ea-494e-a1c4-c6de25649fbc.PNG)
 #### fig. 1) NFT Minting Page<br>
-#2 After this page shows up, fill out your song information(soundtrack to upload, cover, title etc.) and click "Mint NFT" button.<br>
+#2 After this page(fig. 2) shows up, fill out your song information(soundtrack to upload, cover, title etc.) and click "Mint NFT" button.<br>
 #3 The client will send three requests to the backend server. The first and second request are  
 #3 We need to upload metadata to IPFS in order to mint NFT(in decentralized way). So pin IPFS Data such as soundtrack and images, I used Pinata API, which is IPFS pinning service. Instead of running my own IPFS node, It helps pinning data <br>
 #4 The main page shows KOSPI stock chart, and if you select other market tabs, the chart changes.<br>

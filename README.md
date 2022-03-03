@@ -24,7 +24,7 @@ This DApp(Decentralised Application) is a Music NFT(Non-Fungible Token) Marketpl
 #7 Client app send the third request to the back-end server with metadata JSON file.<br><br>
 #8 Back-end server upload this json file and get CID. This is going to be returned to the client to mint NFT.<br><br>
 #9 Client app calls smart contract function which mints NFT by passing CID and amount.<br><br>
-#10 Process will be finish soon and finally you can check your NFT in your Metamask wallet!<br><br>
+#10 After transcation is made, finally you can check your NFT in your Metamask wallet!<br><br>
 
 ![musicNFT_myMusic](https://user-images.githubusercontent.com/43053791/156320633-532c5431-18ee-4aee-ac3b-8bf2a874f680.PNG)
 #### fig. 2) My NFT Music Page<br><br>

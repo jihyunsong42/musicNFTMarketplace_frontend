@@ -20,7 +20,7 @@ Metamask MUST be installed on your browser. You also need to set up your network
 ![mintNFT](https://user-images.githubusercontent.com/43053791/156320508-29dabcd1-42ea-494e-a1c4-c6de25649fbc.PNG)
 
 #### fig. 1) NFT Minting Page<br>
-#2 After this page(fig. 2) shows up, fill out your song information(soundtrack to upload, cover, title etc.) and click "Mint NFT" button.<br><br>
+#2 After this page(fig. 2) shows up, fill out your song information(soundtrack, cover, title etc.) and click "Mint NFT" button.<br><br>
 #3 The client will send three requests to the backend server. The first and second request are sending soundtrack source file and album cover image file to the back-end server. The last request will be executed after two requests are finished.<br><br>
 #4 When Back-End server receives requests, We need to upload these files to IPFS in order to mint NFT. There are two ways to upload data. The first way is running your own IPFS node and the second one is using pinning service. To avoid complicated implementation, We used pinning service Pinata API for this time. With Pinata API key, we can upload soundtrack and image file from back-end server to IPFS.<br><br>
 #5 Once it is uploaded, Pinata API returns CID, which is crucial for creating NFT. This hash value indicates the address of data and it must be included in NFT Metadata.<br><br>

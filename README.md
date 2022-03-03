@@ -26,7 +26,7 @@ Metamask extention MUST be installed on your web browser. You also need to set u
 #7 Client app send the third request to the back-end server with metadata JSON file.<br><br>
 #8 Back-end server upload this JSON file to IPFS and get CID. The server is going to response to the client with this CID to mint NFT.<br><br>
 #9 Client app calls smart contract function which mints NFT by passing CID and amount.<br><br>
-#10 After the transaction is made, finally you can check your NFT in "My ♬" tab! 🎉<br><br>
+#10 After the transaction is made, you can check your NFT in "My ♬" tab! 🎉<br><br>
 
 ### How to sell NFT
 ![musicNFT_myMusic](https://user-images.githubusercontent.com/43053791/156320633-532c5431-18ee-4aee-ac3b-8bf2a874f680.PNG)

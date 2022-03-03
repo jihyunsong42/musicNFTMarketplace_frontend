@@ -61,6 +61,6 @@ Pinata API<br>
 Ether.js<br>
 
 ※ Currently client/server communication is not stable so minting NFT is not working. I am working on fixing this at the moment.<br>
-You can also check back-end and smart contract code here.<br>
+You can also check back-end and smart contract codes here.<br>
 https://github.com/jihyunsong42/musicNFTMarketplace_backend<br>
 https://github.com/jihyunsong42/musicNFTMarketplace_contracts

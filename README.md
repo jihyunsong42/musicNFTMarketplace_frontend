@@ -1,6 +1,6 @@
 # Music NFT Marketplace Project
 A Music NFT(Non-Fungible Token) Marketplace where customers can mint, buy and sell their music NFTs.<br>This project was conducted with junior UI/UX Designer during Ethereum Hackathon 2021. I took part of front-end and back-end logic on this project and also contributed to the smart contract.<br>
-link : https://musicnft.azurewebsites.net<br>
+🔗 https://musicnft.azurewebsites.net<br>
 
 ## How It Works
 

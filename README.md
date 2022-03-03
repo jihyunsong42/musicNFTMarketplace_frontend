@@ -6,8 +6,6 @@ A Music NFT(Non-Fungible Token) Marketplace where customers can mint, buy and se
 
 This DApp(Decentralised Application) is a Music NFT(Non-Fungible Token) Marketplace where customers can mint, buy and sell their music NFTs.<br>In this DApp, user can upload their soundtrack on IPFS(Inter-Planetery File System). Once the soundtrack information is uploaded, it will return a CID(hash value) which every NFT should contain. In this project, I followed Multi-Token Standard(ERC-1155) for creating NFT Tokens so creators can determine how many NFTs they want to mint.<br>Once NFTs are minted, The creator can also upload their music NFTs on tradeblock. Anyone in blockchain network(This app is running on polygon testnet.) can trade this dApp's user's NFTs via smart contract.
 
-
-
 ## Prerequisites
 Metamask extention MUST be installed on your web browser. You also need to set up your network to Polygon testnet and prepare some test MATIC for your transaction gas fee.
 
@@ -36,9 +34,9 @@ Metamask extention MUST be installed on your web browser. You also need to set u
 #### fig. 3) My ♬ Page<br>
 #1 Click "My ♬" tab to see your NFT list.<br><br>
 #2 Choose a NFT you like to sell from right list and click "Sell" button.<br><br>
-#3 Click "Approve" button to approve your NFT to the smart contract. This allows smart contract to access your NFT. This process only will happen once so you don't need to do it again next time.<br><br>
-#4 Set the price and amount you want to sell, and click "Add on Tradeblock".<br><br>
-#5 Metamask will pop up and ask you to confirm your transaction. Press "Confirm".<br><br>
+#3 Click "Approve" button to approve your NFT to the smart contract. This allows smart contract to access your NFT. This process will happen only once so you don't need to do it again next time.<br><br>
+#4 Set the price and amount you want to sell, and click "Add on Tradeblock" button.<br><br>
+#5 Metamask will pop up and ask you to confirm your transaction. Press "Confirm" button.<br><br>
 #6 Your NFT is now on tradeblock! Go to "Market" tab and you will be able to see that your NFT is on the market.<br><br>
 
 
@@ -46,13 +44,20 @@ Metamask extention MUST be installed on your web browser. You also need to set u
 ![buyNFTs](https://user-images.githubusercontent.com/43053791/156320143-fd61ba45-8aa9-4990-a9ed-0d13ca419bed.PNG)
 
 #### fig. 3) Market Page<br>
-#1 Click "Market" tab to see opened NFT tradings.
-#2 
+#1 Click "Market" tab to see opened NFT tradings.<br><br>
+#2 Choose a NFT you like to buy from right list and click "Buy" button.<br><br>
+#3 Before you purchase NFTs, you need to have BBB Token in your wallet. BBB token is ERC-20 Stardard token which is used to trade NFT in this NFT Marketplace.
+#4 Click "Approve" button to approve your BBB Token to the smart contract. This allows smart contract to access your BBB token. This process only will happen only once so you don't need to do it again next time.<br><br>
+#5 Set the amount you want to buy and click "Purchase" button.<br><br>
+#6 You just purchased a NFT! Go to "My ♬" page and check your NFT!
 
-
-React.js is used to implement the front-end, and Node.js / Express.js for back-end.<br>
-
-
+## Languages / Frameworks used for this project
+React
+Node.js / Express.js
+Solidity
+IPFS
+Pinata API
+Ether.js
 
 ※ Currently client/server communication is not stable so minting NFT is not working. I am working on fixing this at the moment.<br>
 You can also check back-end and smart contract code here.<br>

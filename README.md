@@ -14,6 +14,7 @@ This DApp(Decentralised Application) is a Music NFT(Non-Fungible Token) Marketpl
 #1 <br>from the main page(fig. 1), click "Mint NFT" tab to mint your own NFT.<br>
 
 ![mintNFT](https://user-images.github<br>usercontent.com/43053791/156320508-29dabcd1-42ea-494e-a1c4-c6de25649fbc.PNG)
+
 #### fig. 1) NFT Minting Page<br>
 #2 After this page(fig. 2) shows up, fill out your song information(soundtrack to upload, cover, title etc.) and click "Mint NFT" button.<br><br>
 #3 The client will send three requests to the backend server. The first and second request are sending soundtrack source file and album cover image file to the back-end server. The last request will be executed after two requests are finished.<br><br>

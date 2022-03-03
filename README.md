@@ -15,7 +15,7 @@ Metamask extention MUST be installed on your web browser. You also need to set u
 ### How to mint your NFT
 ![musicNFT](https://user-images.githubusercontent.com/43053791/156318632-ddc3b1c3-956d-4d44-90a0-6d48d0873ae5.PNG)
 #### fig. 1) NFT Marketplace Page<br>
-#1 from the main page(fig. 1), click "Mint NFT" tab to mint your own NFT.<br>
+#1 from the main page(fig. 1), click "Mint NFT" tab at the top menu to mint your own NFT.<br>
 
 ![mintNFT](https://user-images.githubusercontent.com/43053791/156320508-29dabcd1-42ea-494e-a1c4-c6de25649fbc.PNG)
 

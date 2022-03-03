@@ -28,13 +28,18 @@ Metamask extention MUST be installed on your web browser. You also need to set u
 #7 Client app send the third request to the back-end server with metadata JSON file.<br><br>
 #8 Back-end server upload this JSON file to IPFS and get CID. The server is going to response to the client with this CID to mint NFT.<br><br>
 #9 Client app calls smart contract function which mints NFT by passing CID and amount.<br><br>
-#10 After the transaction is made, finally you can check your NFT in your Metamask wallet! 🎉<br><br>
+#10 After the transaction is made, finally you can check your NFT in "My ♬" tab! 🎉<br><br>
 
-### How to sell and buy NFT
+### How to sell NFT
 
 ![musicNFT_myMusic](https://user-images.githubusercontent.com/43053791/156320633-532c5431-18ee-4aee-ac3b-8bf2a874f680.PNG)
 
-#1 from the main page(fig. 1), click "My ♬" tab to see your NFT list.<br>
+#1 From the main page(fig. 1), click "My ♬" tab to see your NFT list.<br><br>
+#2 Choose a NFT you like to sell from right list and click "Sell" button.<br><br>
+#3 Click "Approve" button to approve your NFT to the smart contract. This allows smart contract to access your NFT. This process only will happen once so you don't need to do it again next time.<br><br>
+#4 Set the price and amount you want to sell, and click "Add on Tradeblock".
+#5 Metamask will pop up and ask you to confirm your transaction. Press "Confirm". 
+#6 Your NFT is now on tradeblock! Go to "Market" tab, you will be able to see that your NFT is on the market.
 
 #### fig. 2) My NFT Music Page<br><br>
 

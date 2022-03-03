@@ -37,7 +37,7 @@ Metamask extention MUST be installed on your web browser. You also need to set u
 #3 Click "Approve" button to approve your NFT to the smart contract. This allows smart contract to access your NFT. This process will happen only once so you don't need to do it again next time.<br><br>
 #4 Set the price and amount you want to sell, and click "Add on Tradeblock" button.<br><br>
 #5 Metamask will pop up and ask you to confirm your transaction. Press "Confirm" button.<br><br>
-#6 Your NFT is now on tradeblock! Go to "Market" tab and you will be able to see that your NFT is on the market.<br><br>
+#6 Your NFT is now on tradeblock! It means your NFT is on smart contract. Go to "Market" tab and you will be able to see that your NFT is on the market.<br><br>
 
 
 ### How to buy NFT

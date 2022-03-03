@@ -39,15 +39,16 @@ Metamask extention MUST be installed on your web browser. You also need to set u
 #3 Click "Approve" button to approve your NFT to the smart contract. This allows smart contract to access your NFT. This process only will happen once so you don't need to do it again next time.<br><br>
 #4 Set the price and amount you want to sell, and click "Add on Tradeblock".<br><br>
 #5 Metamask will pop up and ask you to confirm your transaction. Press "Confirm".<br><br>
-#6 Your NFT is now on tradeblock! Go to "Market" tab, you will be able to see that your NFT is on the market.<br><br>
+#6 Your NFT is now on tradeblock! Go to "Market" tab and you will be able to see that your NFT is on the market.<br><br>
 
-#### fig. 2) My NFT Music Page<br><br>
 
+### How to buy NFT
 ![buyNFTs](https://user-images.githubusercontent.com/43053791/156320143-fd61ba45-8aa9-4990-a9ed-0d13ca419bed.PNG)
 
+#### fig. 3) Market Page<br>
+#1 Click "Market" tab to see opened NFT tradings.
+#2 
 
-
-#### fig. 3) NFT Purchasing Page<br><br>
 
 React.js is used to implement the front-end, and Node.js / Express.js for back-end.<br>
 

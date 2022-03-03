@@ -18,13 +18,16 @@ This DApp(Decentralised Application) is Music NFT(Non-Fungible Token) Marketplac
 
 React.js is used to implement the front-end, and Node.js / Express.js for back-end.<br>
 
+#### prerequisites
+Metamask MUST be installed on your browser. You also need to set up your network to Polygon testnet.
+
 #### How to mint your NFT in my app
-#1 from the main page, click "Mint" tab to mint your own NFT.<br>
+#1 from the main page, click "Mint NFT" tab to mint your own NFT.<br>
 
 ![mintNFT](https://user-images.githubusercontent.com/43053791/156320508-29dabcd1-42ea-494e-a1c4-c6de25649fbc.PNG)
 #### fig. 1) NFT Minting Page<br>
-#2 After this page shows up, fill out your song information(soundtrack to upload, cover, title etc.) and click "Mint" button.<br>
-#2 We need to upload metadata to IPFS in order to mint NFT(in decentralized way). So pin IPFS Data such as soundtrack and images, I used Pinata API, which is IPFS pinning service. Instead of running my own IPFS node, It helps pinning data <br>
+#2 After this page shows up, fill out your song information(soundtrack to upload, cover, title etc.) and click "Mint NFT" button.<br>
+#3 We need to upload metadata to IPFS in order to mint NFT(in decentralized way). So pin IPFS Data such as soundtrack and images, I used Pinata API, which is IPFS pinning service. Instead of running my own IPFS node, It helps pinning data <br>
 #4 The main page shows KOSPI stock chart, and if you select other market tabs, the chart changes.<br>
 #5 You can scale in/out stock charts by clicking time units.
 

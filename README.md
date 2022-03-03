@@ -28,7 +28,7 @@ Metamask MUST be installed on your browser. You also need to set up your network
 #7 Client app send the third request to the back-end server with metadata JSON file.<br><br>
 #8 Back-end server upload this json file and get CID. This is going to be returned to the client to mint NFT.<br><br>
 #9 Client app calls smart contract function which mints NFT by passing CID and amount.<br><br>
-#10 After the transaction is made, finally you can check your NFT in your Metamask wallet!<br><br>
+#10 After the transaction is made, finally you can check your NFT in your Metamask wallet! 🎉<br><br>
 
 ### How to sell and buy NFT
 

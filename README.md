@@ -52,12 +52,12 @@ Metamask extention MUST be installed on your web browser. You also need to set u
 #6 You just purchased a NFT! Go to "My ♬" page and check your NFT!
 
 ## Languages / Frameworks used for this project
-React
-Node.js / Express.js
-Solidity
-IPFS
-Pinata API
-Ether.js
+React<br>
+Node.js / Express.js<br>
+Solidity<br>
+IPFS<br>
+Pinata API<br>
+Ether.js<br>
 
 ※ Currently client/server communication is not stable so minting NFT is not working. I am working on fixing this at the moment.<br>
 You can also check back-end and smart contract code here.<br>

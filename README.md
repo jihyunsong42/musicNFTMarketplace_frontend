@@ -37,9 +37,9 @@ Metamask extention MUST be installed on your web browser. You also need to set u
 #1 From the main page(fig. 1), click "My ♬" tab to see your NFT list.<br><br>
 #2 Choose a NFT you like to sell from right list and click "Sell" button.<br><br>
 #3 Click "Approve" button to approve your NFT to the smart contract. This allows smart contract to access your NFT. This process only will happen once so you don't need to do it again next time.<br><br>
-#4 Set the price and amount you want to sell, and click "Add on Tradeblock".
-#5 Metamask will pop up and ask you to confirm your transaction. Press "Confirm". 
-#6 Your NFT is now on tradeblock! Go to "Market" tab, you will be able to see that your NFT is on the market.
+#4 Set the price and amount you want to sell, and click "Add on Tradeblock".<br><br>
+#5 Metamask will pop up and ask you to confirm your transaction. Press "Confirm".<br><br>
+#6 Your NFT is now on tradeblock! Go to "Market" tab, you will be able to see that your NFT is on the market.<br><br>
 
 #### fig. 2) My NFT Music Page<br><br>
 

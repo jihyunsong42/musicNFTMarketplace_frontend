@@ -52,6 +52,7 @@ Metamask extention MUST be installed on your web browser. You also need to set u
 #6 You just purchased a NFT! Go to "My ♬" page and check your NFT!
 
 ## Languages / Frameworks used for this project
+Javascript<br>
 React<br>
 Node.js / Express.js<br>
 Solidity<br>

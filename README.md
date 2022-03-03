@@ -26,7 +26,7 @@ Metamask MUST be installed on your browser. You also need to set up your network
 #5 Once it is uploaded, Pinata API returns CID, which is crucial for creating NFT. This hash value indicates the address of data and it must be included in NFT Metadata.<br><br>
 #6 After pinning, client-side app creates object for NFT metadata and put information. the metadata form includes CIDs of ipfs image and ipfs soundtrack.<br><br>
 #7 Client app send the third request to the back-end server with metadata JSON file.<br><br>
-#8 Back-end server upload this JSON file to IPFS and get CID. This is going to be returned to the client to mint NFT.<br><br>
+#8 Back-end server upload this JSON file to IPFS and get CID. The server is going to response to the client with this CID to mint NFT.<br><br>
 #9 Client app calls smart contract function which mints NFT by passing CID and amount.<br><br>
 #10 After the transaction is made, finally you can check your NFT in your Metamask wallet! 🎉<br><br>
 
